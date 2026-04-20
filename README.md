@@ -31,7 +31,8 @@ This project is an interactive Power BI dashboard used to analyze mobile sales d
 ---
 
 ## 🔹 Screenshot
-![Dashboard](dashboard.png)
+![Dashboard](Mobile-Sales-Dashboard
+)
 
 ---
 

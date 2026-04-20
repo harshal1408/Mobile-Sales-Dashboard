@@ -29,9 +29,10 @@ This project is an interactive Power BI dashboard used to analyze mobile sales d
 - Sales differ across cities and days
 
 ---
+## 🔹 Project Overview
+This project is an interactive Power BI dashboard used to analyze mobile sales data across cities, brands, and time.
 
-## 🔹 Screenshot
-
+![Mobile Sales Dashboard](Mobile_Sales_Dashboard.png)
 ---
 
 ## 🔹 How to Use
